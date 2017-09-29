@@ -1,7 +1,7 @@
 # Mandelbrot-Fractals
 For the 2017 Edinburgh Uni Programming Club: Exercise 1
 
-<img src="fractal.ppm"/ width="500px">
+<img src="fractal.ppm" width="500px"/>
 
 To compile the cpp files type:
 
